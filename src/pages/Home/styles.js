@@ -14,6 +14,7 @@ export const CatalogList = styled.ul`
         border-radius: 4px;
         padding: 20px;
         background: #fff;
+        flex: 1;
 
         img {
             align-self: center;
